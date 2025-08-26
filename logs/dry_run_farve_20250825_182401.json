@@ -1,0 +1,1329 @@
+[
+  {
+    "productId": "gid://shopify/Product/10317686276423",
+    "handle": "1381-418",
+    "title": "Lina Loungestol Pink",
+    "type": "single_line_text_field",
+    "oldValue": "Pink",
+    "newValue": "Lyserød",
+    "replacements": [
+      [
+        "pink",
+        "lyserød"
+      ]
+    ]
+  },
+  {
+    "productId": "gid://shopify/Product/10317686374727",
+    "handle": "1382-418",
+    "title": "Lina Sidebord 40 x 40 Pink",
+    "type": "single_line_text_field",
+    "oldValue": "Pink",
+    "newValue": "Lyserød",
+    "replacements": [
+      [
+        "pink",
+        "lyserød"
+      ]
+    ]
+  },
+  {
+    "productId": "gid://shopify/Product/10317690536263",
+    "handle": "15003-331",
+    "title": "Österlen Sofabord ⌀100 Transparent",
+    "type": "single_line_text_field",
+    "oldValue": "Transparent",
+    "newValue": "Gennemsigtig",
+    "replacements": [
+      [
+        "transparent",
+        "gennemsigtig"
+      ]
+    ]
+  },
+  {
+    "productId": "gid://shopify/Product/10317695353159",
+    "handle": "15015-331",
+    "title": "Maglehem Sofabord 130 x 60 Transparent",
+    "type": "single_line_text_field",
+    "oldValue": "Transparent",
+    "newValue": "Gennemsigtig",
+    "replacements": [
+      [
+        "transparent",
+        "gennemsigtig"
+      ]
+    ]
+  },
+  {
+    "productId": "gid://shopify/Product/10317718716743",
+    "handle": "15506-809",
+    "title": "Tubbie Pendellampe Støvet Rosa",
+    "type": "single_line_text_field",
+    "oldValue": "Støvet rosa",
+    "newValue": "støvet rosa",
+    "replacements": []
+  },
+  {
+    "productId": "gid://shopify/Product/10317718978887",
+    "handle": "15507-809",
+    "title": "Tubbie Pendellampe Støvet Rosa",
+    "type": "single_line_text_field",
+    "oldValue": "Støvet rosa",
+    "newValue": "støvet rosa",
+    "replacements": []
+  },
+  {
+    "productId": "gid://shopify/Product/10317736345927",
+    "handle": "amorim-spisebordsstol",
+    "title": "Amorim Spisebordsstol",
+    "type": "single_line_text_field",
+    "oldValue": "Off-White",
+    "newValue": "Råhvid",
+    "replacements": [
+      [
+        "off-white",
+        "råhvid"
+      ]
+    ]
+  },
+  {
+    "productId": "gid://shopify/Product/10317739295047",
+    "handle": "15550-989",
+    "title": "Boom Ottoman 70 x 49 x 90 Pink",
+    "type": "single_line_text_field",
+    "oldValue": "Pink",
+    "newValue": "Lyserød",
+    "replacements": [
+      [
+        "pink",
+        "lyserød"
+      ]
+    ]
+  },
+  {
+    "productId": "gid://shopify/Product/10317751255367",
+    "handle": "middelfart-barstol-4",
+    "title": "Middelfart Barstol",
+    "type": "single_line_text_field",
+    "oldValue": "Grey",
+    "newValue": "Grå",
+    "replacements": [
+      [
+        "grey",
+        "grå"
+      ]
+    ]
+  },
+  {
+    "productId": "gid://shopify/Product/10317763936583",
+    "handle": "dover-spisebordsstol",
+    "title": "Dover Spisebordsstol",
+    "type": "single_line_text_field",
+    "oldValue": "Beige meleret",
+    "newValue": "beige meleret",
+    "replacements": [
+      [
+        "beige",
+        "beige"
+      ]
+    ]
+  },
+  {
+    "productId": "gid://shopify/Product/10317781238087",
+    "handle": "setubal-loungestol",
+    "title": "Setubal Loungestol",
+    "type": "single_line_text_field",
+    "oldValue": "Off-White",
+    "newValue": "Råhvid",
+    "replacements": [
+      [
+        "off-white",
+        "råhvid"
+      ]
+    ]
+  },
+  {
+    "productId": "gid://shopify/Product/10317794148679",
+    "handle": "milo-loungestol",
+    "title": "Milo Loungestol",
+    "type": "single_line_text_field",
+    "oldValue": "Off-White",
+    "newValue": "Råhvid",
+    "replacements": [
+      [
+        "off-white",
+        "råhvid"
+      ]
+    ]
+  },
+  {
+    "productId": "gid://shopify/Product/10317796376903",
+    "handle": "milo-saet",
+    "title": "Milo sæt",
+    "type": "single_line_text_field",
+    "oldValue": "Off-White",
+    "newValue": "Råhvid",
+    "replacements": [
+      [
+        "off-white",
+        "råhvid"
+      ]
+    ]
+  },
+  {
+    "productId": "gid://shopify/Product/10317818396999",
+    "handle": "15642-337",
+    "title": "Harmonica Gulvlampe Aqua",
+    "type": "single_line_text_field",
+    "oldValue": "Aqua",
+    "newValue": "Akvamarin",
+    "replacements": [
+      [
+        "aqua",
+        "akvamarin"
+      ]
+    ]
+  },
+  {
+    "productId": "gid://shopify/Product/10317835632967",
+    "handle": "lido-lounge-sofa-20",
+    "title": "Lido Lounge Sofa",
+    "type": "single_line_text_field",
+    "oldValue": "Beige meleret",
+    "newValue": "beige meleret",
+    "replacements": [
+      [
+        "beige",
+        "beige"
+      ]
+    ]
+  },
+  {
+    "productId": "gid://shopify/Product/10317836058951",
+    "handle": "lido-lounge-sofa-21",
+    "title": "Lido Lounge Sofa",
+    "type": "single_line_text_field",
+    "oldValue": "Beige meleret",
+    "newValue": "beige meleret",
+    "replacements": [
+      [
+        "beige",
+        "beige"
+      ]
+    ]
+  },
+  {
+    "productId": "gid://shopify/Product/10317854802247",
+    "handle": "15930-907",
+    "title": "Evelyn Gardin 290 x 135",
+    "type": "single_line_text_field",
+    "oldValue": "Aqua",
+    "newValue": "Akvamarin",
+    "replacements": [
+      [
+        "aqua",
+        "akvamarin"
+      ]
+    ]
+  },
+  {
+    "productId": "gid://shopify/Product/10317865255239",
+    "handle": "hilo-puf",
+    "title": "Hilo Puf",
+    "type": "single_line_text_field",
+    "oldValue": "Off-White",
+    "newValue": "Råhvid",
+    "replacements": [
+      [
+        "off-white",
+        "råhvid"
+      ]
+    ]
+  },
+  {
+    "productId": "gid://shopify/Product/10317867352391",
+    "handle": "paisley-puf",
+    "title": "Paisley Puf",
+    "type": "single_line_text_field",
+    "oldValue": "Off-White",
+    "newValue": "Råhvid",
+    "replacements": [
+      [
+        "off-white",
+        "råhvid"
+      ]
+    ]
+  },
+  {
+    "productId": "gid://shopify/Product/10317871579463",
+    "handle": "15978-712",
+    "title": "Nilla Sengetæppe 150 x 250 Støvet Rosa",
+    "type": "single_line_text_field",
+    "oldValue": "Støvet rosa",
+    "newValue": "støvet rosa",
+    "replacements": []
+  },
+  {
+    "productId": "gid://shopify/Product/10317872103751",
+    "handle": "15979-712",
+    "title": "Nilla Sengetæppe 180 x 260 Støvet Rosa",
+    "type": "single_line_text_field",
+    "oldValue": "Støvet rosa",
+    "newValue": "støvet rosa",
+    "replacements": []
+  },
+  {
+    "productId": "gid://shopify/Product/10317873283399",
+    "handle": "15980-712",
+    "title": "Nilla Sengetæppe 260 x 260 Støvet Pink",
+    "type": "single_line_text_field",
+    "oldValue": "Pink",
+    "newValue": "Lyserød",
+    "replacements": [
+      [
+        "pink",
+        "lyserød"
+      ]
+    ]
+  },
+  {
+    "productId": "gid://shopify/Product/10317874069831",
+    "handle": "15981-407",
+    "title": "Sally Sengetæppe 150 x 250 Aqua",
+    "type": "single_line_text_field",
+    "oldValue": "Aqua",
+    "newValue": "Akvamarin",
+    "replacements": [
+      [
+        "aqua",
+        "akvamarin"
+      ]
+    ]
+  },
+  {
+    "productId": "gid://shopify/Product/10317874692423",
+    "handle": "15982-407",
+    "title": "Sally Sengetæppe 80 x 150 Aqua",
+    "type": "single_line_text_field",
+    "oldValue": "Aqua",
+    "newValue": "Akvamarin",
+    "replacements": [
+      [
+        "aqua",
+        "akvamarin"
+      ]
+    ]
+  },
+  {
+    "productId": "gid://shopify/Product/10317875577159",
+    "handle": "15983-407",
+    "title": "Sally Sengetæppe 180 x 260 Aqua",
+    "type": "single_line_text_field",
+    "oldValue": "Aqua",
+    "newValue": "Akvamarin",
+    "replacements": [
+      [
+        "aqua",
+        "akvamarin"
+      ]
+    ]
+  },
+  {
+    "productId": "gid://shopify/Product/10317876068679",
+    "handle": "15984-407",
+    "title": "Sally Sengetæppe 80 x 180 Aqua",
+    "type": "single_line_text_field",
+    "oldValue": "Aqua",
+    "newValue": "Akvamarin",
+    "replacements": [
+      [
+        "aqua",
+        "akvamarin"
+      ]
+    ]
+  },
+  {
+    "productId": "gid://shopify/Product/10317876429127",
+    "handle": "15985-407",
+    "title": "Sally Sengetæppe 260 x 260 Aqua",
+    "type": "single_line_text_field",
+    "oldValue": "Aqua",
+    "newValue": "Akvamarin",
+    "replacements": [
+      [
+        "aqua",
+        "akvamarin"
+      ]
+    ]
+  },
+  {
+    "productId": "gid://shopify/Product/10317876986183",
+    "handle": "15986-407",
+    "title": "Sally Sengetæppe 80 x 260 Aqua",
+    "type": "single_line_text_field",
+    "oldValue": "Aqua",
+    "newValue": "Akvamarin",
+    "replacements": [
+      [
+        "aqua",
+        "akvamarin"
+      ]
+    ]
+  },
+  {
+    "productId": "gid://shopify/Product/10317880394055",
+    "handle": "15992-412",
+    "title": "Juni Sengetæppe 150 x 250 Støvet Rosa",
+    "type": "single_line_text_field",
+    "oldValue": "Støvet rosa",
+    "newValue": "støvet rosa",
+    "replacements": []
+  },
+  {
+    "productId": "gid://shopify/Product/10317880492359",
+    "handle": "15993-412",
+    "title": "Juni Sengetæppe 180 x 260 Støvet Rosa",
+    "type": "single_line_text_field",
+    "oldValue": "Støvet rosa",
+    "newValue": "støvet rosa",
+    "replacements": []
+  },
+  {
+    "productId": "gid://shopify/Product/10317883277639",
+    "handle": "zoe-toilettaske",
+    "title": "Zoe Toilettaske",
+    "type": "single_line_text_field",
+    "oldValue": "Sort mix",
+    "newValue": "sort mix",
+    "replacements": []
+  },
+  {
+    "productId": "gid://shopify/Product/10317887406407",
+    "handle": "16010-511",
+    "title": "Mila Sengsæt 50 x 60 + 150 x 200 Lys Pink",
+    "type": "single_line_text_field",
+    "oldValue": "Pink",
+    "newValue": "Lyserød",
+    "replacements": [
+      [
+        "pink",
+        "lyserød"
+      ]
+    ]
+  },
+  {
+    "productId": "gid://shopify/Product/10317908214087",
+    "handle": "16077-511",
+    "title": "Tyra Pudevårdsbetræk 70 x 100 Lys Pink",
+    "type": "single_line_text_field",
+    "oldValue": "Pink",
+    "newValue": "Lyserød",
+    "replacements": [
+      [
+        "pink",
+        "lyserød"
+      ]
+    ]
+  },
+  {
+    "productId": "gid://shopify/Product/10317908640071",
+    "handle": "16080-511",
+    "title": "Tyra Pudevårdsbetræk 60 x 60 Lys Pink",
+    "type": "single_line_text_field",
+    "oldValue": "Pink",
+    "newValue": "Lyserød",
+    "replacements": [
+      [
+        "pink",
+        "lyserød"
+      ]
+    ]
+  },
+  {
+    "productId": "gid://shopify/Product/10317910245703",
+    "handle": "palmera-sofabord",
+    "title": "Palmera Sofabord",
+    "type": "single_line_text_field",
+    "oldValue": "Off-White",
+    "newValue": "Råhvid",
+    "replacements": [
+      [
+        "off-white",
+        "råhvid"
+      ]
+    ]
+  },
+  {
+    "productId": "gid://shopify/Product/10317918011719",
+    "handle": "17003-511",
+    "title": "Hailey Pude Cover 50 x 50 Pink",
+    "type": "single_line_text_field",
+    "oldValue": "Pink",
+    "newValue": "Lyserød",
+    "replacements": [
+      [
+        "pink",
+        "lyserød"
+      ]
+    ]
+  },
+  {
+    "productId": "gid://shopify/Product/10317919945031",
+    "handle": "17009-511",
+    "title": "Hailey Pudevårcover 40 x 60 Pink",
+    "type": "single_line_text_field",
+    "oldValue": "Pink",
+    "newValue": "Lyserød",
+    "replacements": [
+      [
+        "pink",
+        "lyserød"
+      ]
+    ]
+  },
+  {
+    "productId": "gid://shopify/Product/10317954515271",
+    "handle": "18045-989",
+    "title": "Boom 3-personers Sofa Pink",
+    "type": "single_line_text_field",
+    "oldValue": "Pink",
+    "newValue": "Lyserød",
+    "replacements": [
+      [
+        "pink",
+        "lyserød"
+      ]
+    ]
+  },
+  {
+    "productId": "gid://shopify/Product/10317957103943",
+    "handle": "18046-989",
+    "title": "Boom Lænestol Pink",
+    "type": "single_line_text_field",
+    "oldValue": "Pink",
+    "newValue": "Lyserød",
+    "replacements": [
+      [
+        "pink",
+        "lyserød"
+      ]
+    ]
+  },
+  {
+    "productId": "gid://shopify/Product/10317966999879",
+    "handle": "18062-889",
+    "title": "Velvet Kids Chair Pink",
+    "type": "single_line_text_field",
+    "oldValue": "Pink",
+    "newValue": "Lyserød",
+    "replacements": [
+      [
+        "pink",
+        "lyserød"
+      ]
+    ]
+  },
+  {
+    "productId": "gid://shopify/Product/10317989937479",
+    "handle": "19924-889",
+    "title": "Velvet Spisebænk 2-pak Støvet Rosa",
+    "type": "single_line_text_field",
+    "oldValue": "Støvet rosa",
+    "newValue": "støvet rosa",
+    "replacements": []
+  },
+  {
+    "productId": "gid://shopify/Product/10317992362311",
+    "handle": "19925-889",
+    "title": "Velvet Spisebordsstol 2-pak Støvet Rosa",
+    "type": "single_line_text_field",
+    "oldValue": "Støvet rosa",
+    "newValue": "støvet rosa",
+    "replacements": []
+  },
+  {
+    "productId": "gid://shopify/Product/10317993279815",
+    "handle": "carmel-plaid-3",
+    "title": "Carmel Plaid",
+    "type": "single_line_text_field",
+    "oldValue": "Tan",
+    "newValue": "Lysebrun",
+    "replacements": [
+      [
+        "tan",
+        "lysebrun"
+      ]
+    ]
+  },
+  {
+    "productId": "gid://shopify/Product/10317993378119",
+    "handle": "carmel-plaid-4",
+    "title": "Carmel Plaid",
+    "type": "single_line_text_field",
+    "oldValue": "Multi Farvet",
+    "newValue": "Flerfarvet Farvet",
+    "replacements": [
+      [
+        "multi",
+        "flerfarvet"
+      ]
+    ]
+  },
+  {
+    "productId": "gid://shopify/Product/10317997572423",
+    "handle": "tampa-taeppe",
+    "title": "Tampa Tæppe",
+    "type": "single_line_text_field",
+    "oldValue": "Multi Farvet",
+    "newValue": "Flerfarvet Farvet",
+    "replacements": [
+      [
+        "multi",
+        "flerfarvet"
+      ]
+    ]
+  },
+  {
+    "productId": "gid://shopify/Product/10317997637959",
+    "handle": "tampa-taeppe-1",
+    "title": "Tampa Tæppe",
+    "type": "single_line_text_field",
+    "oldValue": "Multi Farvet",
+    "newValue": "Flerfarvet Farvet",
+    "replacements": [
+      [
+        "multi",
+        "flerfarvet"
+      ]
+    ]
+  },
+  {
+    "productId": "gid://shopify/Product/10318002094407",
+    "handle": "19936-989",
+    "title": "Velour 3-personers Sofa Pink",
+    "type": "single_line_text_field",
+    "oldValue": "Pink",
+    "newValue": "Lyserød",
+    "replacements": [
+      [
+        "pink",
+        "lyserød"
+      ]
+    ]
+  },
+  {
+    "productId": "gid://shopify/Product/10318008123719",
+    "handle": "19960-999",
+    "title": "Velvet Spisestol 2-pak Støvet Rosa",
+    "type": "single_line_text_field",
+    "oldValue": "Støvet rosa",
+    "newValue": "støvet rosa",
+    "replacements": []
+  },
+  {
+    "productId": "gid://shopify/Product/10318012088647",
+    "handle": "pina-taeppe",
+    "title": "Pina Tæppe",
+    "type": "single_line_text_field",
+    "oldValue": "Beige / Off White",
+    "newValue": "Beige / Råhvid",
+    "replacements": [
+      [
+        "off white",
+        "råhvid"
+      ],
+      [
+        "beige",
+        "beige"
+      ]
+    ]
+  },
+  {
+    "productId": "gid://shopify/Product/10318012416327",
+    "handle": "pina-taeppe-1",
+    "title": "Pina Tæppe",
+    "type": "single_line_text_field",
+    "oldValue": "Beige / Off White",
+    "newValue": "Beige / Råhvid",
+    "replacements": [
+      [
+        "off white",
+        "råhvid"
+      ],
+      [
+        "beige",
+        "beige"
+      ]
+    ]
+  },
+  {
+    "productId": "gid://shopify/Product/10318018052423",
+    "handle": "19973-339",
+    "title": "Indra rektangulært tæppe 300 x 200 pink",
+    "type": "single_line_text_field",
+    "oldValue": "Pink",
+    "newValue": "Lyserød",
+    "replacements": [
+      [
+        "pink",
+        "lyserød"
+      ]
+    ]
+  },
+  {
+    "productId": "gid://shopify/Product/10318019166535",
+    "handle": "19974-339",
+    "title": "Indra rektangulært tæppe 350 x 250 pink",
+    "type": "single_line_text_field",
+    "oldValue": "Pink",
+    "newValue": "Lyserød",
+    "replacements": [
+      [
+        "pink",
+        "lyserød"
+      ]
+    ]
+  },
+  {
+    "productId": "gid://shopify/Product/10318028964167",
+    "handle": "19986-339",
+    "title": "Undra rektangulært tæppe 300 x 200 pink",
+    "type": "single_line_text_field",
+    "oldValue": "Pink",
+    "newValue": "Lyserød",
+    "replacements": [
+      [
+        "pink",
+        "lyserød"
+      ]
+    ]
+  },
+  {
+    "productId": "gid://shopify/Product/10318033912135",
+    "handle": "19988-339",
+    "title": "Undra Rundt Tæppe ⌀200 Pink",
+    "type": "single_line_text_field",
+    "oldValue": "Pink",
+    "newValue": "Lyserød",
+    "replacements": [
+      [
+        "pink",
+        "lyserød"
+      ]
+    ]
+  },
+  {
+    "productId": "gid://shopify/Product/10318088569159",
+    "handle": "20061-111",
+    "title": "Telemark Sofa Table 110 x 50 Transparent",
+    "type": "single_line_text_field",
+    "oldValue": "Transparent",
+    "newValue": "Gennemsigtig",
+    "replacements": [
+      [
+        "transparent",
+        "gennemsigtig"
+      ]
+    ]
+  },
+  {
+    "productId": "gid://shopify/Product/10318111048007",
+    "handle": "vienna-vaegur",
+    "title": "Vienna Vægur",
+    "type": "single_line_text_field",
+    "oldValue": "Off-White",
+    "newValue": "Råhvid",
+    "replacements": [
+      [
+        "off-white",
+        "råhvid"
+      ]
+    ]
+  },
+  {
+    "productId": "gid://shopify/Product/10318176747847",
+    "handle": "2111-404",
+    "title": "Copacabana Sofamodul Khaki",
+    "type": "single_line_text_field",
+    "oldValue": "Khaki",
+    "newValue": "Kaki",
+    "replacements": [
+      [
+        "khaki",
+        "kaki"
+      ]
+    ]
+  },
+  {
+    "productId": "gid://shopify/Product/10318177042759",
+    "handle": "2112-404",
+    "title": "Copacabana Sofamodul Khaki",
+    "type": "single_line_text_field",
+    "oldValue": "Khaki",
+    "newValue": "Kaki",
+    "replacements": [
+      [
+        "khaki",
+        "kaki"
+      ]
+    ]
+  },
+  {
+    "productId": "gid://shopify/Product/10318178779463",
+    "handle": "arese-kurve-1",
+    "title": "Arese Kurve",
+    "type": "single_line_text_field",
+    "oldValue": "Off-White",
+    "newValue": "Råhvid",
+    "replacements": [
+      [
+        "off-white",
+        "råhvid"
+      ]
+    ]
+  },
+  {
+    "productId": "gid://shopify/Product/10318179008839",
+    "handle": "2113-404",
+    "title": "Copacabana Sofa Bord 120 x 70 Khaki",
+    "type": "single_line_text_field",
+    "oldValue": "Khaki",
+    "newValue": "Kaki",
+    "replacements": [
+      [
+        "khaki",
+        "kaki"
+      ]
+    ]
+  },
+  {
+    "productId": "gid://shopify/Product/10318206107975",
+    "handle": "27702-999",
+    "title": "Comfort Spisebordsstol 2-pak Støvet Rosa",
+    "type": "single_line_text_field",
+    "oldValue": "Støvet rosa",
+    "newValue": "støvet rosa",
+    "replacements": []
+  },
+  {
+    "productId": "gid://shopify/Product/10318218428743",
+    "handle": "vase-22",
+    "title": "Vase",
+    "type": "single_line_text_field",
+    "oldValue": "Smoked brun",
+    "newValue": "smoked brun",
+    "replacements": []
+  },
+  {
+    "productId": "gid://shopify/Product/10318219510087",
+    "handle": "vase-23",
+    "title": "Vase",
+    "type": "single_line_text_field",
+    "oldValue": "Smoked brun",
+    "newValue": "smoked brun",
+    "replacements": []
+  },
+  {
+    "productId": "gid://shopify/Product/10318271480135",
+    "handle": "skaal-2",
+    "title": "Skål",
+    "type": "single_line_text_field",
+    "oldValue": "Smoked brun",
+    "newValue": "smoked brun",
+    "replacements": []
+  },
+  {
+    "productId": "gid://shopify/Product/10318289568071",
+    "handle": "lysestage-12",
+    "title": "Lysestage",
+    "type": "single_line_text_field",
+    "oldValue": "Smoked brun",
+    "newValue": "smoked brun",
+    "replacements": []
+  },
+  {
+    "productId": "gid://shopify/Product/10318295662919",
+    "handle": "3070-001",
+    "title": "Bold Møbelrenser",
+    "type": "single_line_text_field",
+    "oldValue": "Transparent",
+    "newValue": "Gennemsigtig",
+    "replacements": [
+      [
+        "transparent",
+        "gennemsigtig"
+      ]
+    ]
+  },
+  {
+    "productId": "gid://shopify/Product/10318295728455",
+    "handle": "3072-001",
+    "title": "Bold Møbelbeskytter",
+    "type": "single_line_text_field",
+    "oldValue": "Transparent",
+    "newValue": "Gennemsigtig",
+    "replacements": [
+      [
+        "transparent",
+        "gennemsigtig"
+      ]
+    ]
+  },
+  {
+    "productId": "gid://shopify/Product/10318296023367",
+    "handle": "3073-002",
+    "title": "Bold Møbelrenser",
+    "type": "single_line_text_field",
+    "oldValue": "Transparent",
+    "newValue": "Gennemsigtig",
+    "replacements": [
+      [
+        "transparent",
+        "gennemsigtig"
+      ]
+    ]
+  },
+  {
+    "productId": "gid://shopify/Product/10318296088903",
+    "handle": "3074-002",
+    "title": "Bold Møbelbeskytter",
+    "type": "single_line_text_field",
+    "oldValue": "Transparent",
+    "newValue": "Gennemsigtig",
+    "replacements": [
+      [
+        "transparent",
+        "gennemsigtig"
+      ]
+    ]
+  },
+  {
+    "productId": "gid://shopify/Product/10318296187207",
+    "handle": "3075-003",
+    "title": "Bold Møbelrenser",
+    "type": "single_line_text_field",
+    "oldValue": "Transparent",
+    "newValue": "Gennemsigtig",
+    "replacements": [
+      [
+        "transparent",
+        "gennemsigtig"
+      ]
+    ]
+  },
+  {
+    "productId": "gid://shopify/Product/10318296482119",
+    "handle": "3076-003",
+    "title": "Bold Møbelbeskytter",
+    "type": "single_line_text_field",
+    "oldValue": "Transparent",
+    "newValue": "Gennemsigtig",
+    "replacements": [
+      [
+        "transparent",
+        "gennemsigtig"
+      ]
+    ]
+  },
+  {
+    "productId": "gid://shopify/Product/10318331543879",
+    "handle": "greatham-led-lanterne",
+    "title": "Greatham LED Lanterne",
+    "type": "single_line_text_field",
+    "oldValue": "Pink",
+    "newValue": "Lyserød",
+    "replacements": [
+      [
+        "pink",
+        "lyserød"
+      ]
+    ]
+  },
+  {
+    "productId": "gid://shopify/Product/10318366245191",
+    "handle": "manali-lanterne",
+    "title": "Manali Lanterne",
+    "type": "single_line_text_field",
+    "oldValue": "Antik messing look",
+    "newValue": "antik messing look",
+    "replacements": []
+  },
+  {
+    "productId": "gid://shopify/Product/10318368145735",
+    "handle": "mohali-lanterne",
+    "title": "Mohali Lanterne",
+    "type": "single_line_text_field",
+    "oldValue": "Antik messing look",
+    "newValue": "antik messing look",
+    "replacements": []
+  },
+  {
+    "productId": "gid://shopify/Product/10318368899399",
+    "handle": "mysore-lanterne",
+    "title": "Mysore Lanterne",
+    "type": "single_line_text_field",
+    "oldValue": "Antik messing look",
+    "newValue": "antik messing look",
+    "replacements": []
+  },
+  {
+    "productId": "gid://shopify/Product/10318377648455",
+    "handle": "58105-167",
+    "title": "Dian Lysestage ø12 Pink",
+    "type": "single_line_text_field",
+    "oldValue": "Pink",
+    "newValue": "Lyserød",
+    "replacements": [
+      [
+        "pink",
+        "lyserød"
+      ]
+    ]
+  },
+  {
+    "productId": "gid://shopify/Product/10318378926407",
+    "handle": "58109-222",
+    "title": "Bette Lysestage ø12 Lys Pink",
+    "type": "single_line_text_field",
+    "oldValue": "Pink",
+    "newValue": "Lyserød",
+    "replacements": [
+      [
+        "pink",
+        "lyserød"
+      ]
+    ]
+  },
+  {
+    "productId": "gid://shopify/Product/10318383022407",
+    "handle": "58133-222",
+    "title": "Ernst Vase 23 x 12 x 9 Lys Rosa",
+    "type": "single_line_text_field",
+    "oldValue": "Lys rosa",
+    "newValue": "lys rosa",
+    "replacements": []
+  },
+  {
+    "productId": "gid://shopify/Product/10318383841607",
+    "handle": "58135-222",
+    "title": "Kento Vase 15 x 21 x 8 Lys Pink",
+    "type": "single_line_text_field",
+    "oldValue": "Pink",
+    "newValue": "Lyserød",
+    "replacements": [
+      [
+        "pink",
+        "lyserød"
+      ]
+    ]
+  },
+  {
+    "productId": "gid://shopify/Product/10318393049415",
+    "handle": "58172-222",
+    "title": "Glora Lanterne ø10 Lys Pink",
+    "type": "single_line_text_field",
+    "oldValue": "Pink",
+    "newValue": "Lyserød",
+    "replacements": [
+      [
+        "pink",
+        "lyserød"
+      ]
+    ]
+  },
+  {
+    "productId": "gid://shopify/Product/10318421786951",
+    "handle": "boavista-og-amorim-spisebordssaet",
+    "title": "Boavista og Amorim Spisebordssæt",
+    "type": "single_line_text_field",
+    "oldValue": "Mørkebrun, Off-white",
+    "newValue": "mørkebrun, råhvid",
+    "replacements": [
+      [
+        "off-white",
+        "råhvid"
+      ]
+    ]
+  },
+  {
+    "productId": "gid://shopify/Product/10318422507847",
+    "handle": "toulon-og-amorim-spisebordssaet",
+    "title": "Toulon og Amorim Spisebordssæt",
+    "type": "single_line_text_field",
+    "oldValue": "Natur / Off-White",
+    "newValue": "Natur / Råhvid",
+    "replacements": [
+      [
+        "off-white",
+        "råhvid"
+      ]
+    ]
+  },
+  {
+    "productId": "gid://shopify/Product/10318423195975",
+    "handle": "60035-001",
+    "title": "Splash Plakat Lys Pink",
+    "type": "single_line_text_field",
+    "oldValue": "Pink",
+    "newValue": "Lyserød",
+    "replacements": [
+      [
+        "pink",
+        "lyserød"
+      ]
+    ]
+  },
+  {
+    "productId": "gid://shopify/Product/10318423359815",
+    "handle": "60035-002",
+    "title": "Splash Plakat Lys Pink",
+    "type": "single_line_text_field",
+    "oldValue": "Pink",
+    "newValue": "Lyserød",
+    "replacements": [
+      [
+        "pink",
+        "lyserød"
+      ]
+    ]
+  },
+  {
+    "productId": "gid://shopify/Product/10318423687495",
+    "handle": "60035-003",
+    "title": "Splash Plakat Lys Pink",
+    "type": "single_line_text_field",
+    "oldValue": "Pink",
+    "newValue": "Lyserød",
+    "replacements": [
+      [
+        "pink",
+        "lyserød"
+      ]
+    ]
+  },
+  {
+    "productId": "gid://shopify/Product/10318423720263",
+    "handle": "60035-004",
+    "title": "Splash Plakat Lys Pink",
+    "type": "single_line_text_field",
+    "oldValue": "Pink",
+    "newValue": "Lyserød",
+    "replacements": [
+      [
+        "pink",
+        "lyserød"
+      ]
+    ]
+  },
+  {
+    "productId": "gid://shopify/Product/10318424441159",
+    "handle": "cassis-hyndeboks",
+    "title": "Cassis Hyndeboks",
+    "type": "single_line_text_field",
+    "oldValue": "Grey",
+    "newValue": "Grå",
+    "replacements": [
+      [
+        "grey",
+        "grå"
+      ]
+    ]
+  },
+  {
+    "productId": "gid://shopify/Product/10318424834375",
+    "handle": "cassis-hyndeboks-1",
+    "title": "Cassis Hyndeboks",
+    "type": "single_line_text_field",
+    "oldValue": "Grey",
+    "newValue": "Grå",
+    "replacements": [
+      [
+        "grey",
+        "grå"
+      ]
+    ]
+  },
+  {
+    "productId": "gid://shopify/Product/10318431912263",
+    "handle": "edessa-haengekoje",
+    "title": "Edessa Hængekøje",
+    "type": "single_line_text_field",
+    "oldValue": "Off White",
+    "newValue": "Råhvid",
+    "replacements": [
+      [
+        "off white",
+        "råhvid"
+      ]
+    ]
+  },
+  {
+    "productId": "gid://shopify/Product/10318433780039",
+    "handle": "60056-001",
+    "title": "Sommer Plakat Pink",
+    "type": "single_line_text_field",
+    "oldValue": "Pink",
+    "newValue": "Lyserød",
+    "replacements": [
+      [
+        "pink",
+        "lyserød"
+      ]
+    ]
+  },
+  {
+    "productId": "gid://shopify/Product/10318433911111",
+    "handle": "60056-003",
+    "title": "Sommer Plakat Pink",
+    "type": "single_line_text_field",
+    "oldValue": "Pink",
+    "newValue": "Lyserød",
+    "replacements": [
+      [
+        "pink",
+        "lyserød"
+      ]
+    ]
+  },
+  {
+    "productId": "gid://shopify/Product/10318433943879",
+    "handle": "60056-002",
+    "title": "Sommer Plakat Pink",
+    "type": "single_line_text_field",
+    "oldValue": "Pink",
+    "newValue": "Lyserød",
+    "replacements": [
+      [
+        "pink",
+        "lyserød"
+      ]
+    ]
+  },
+  {
+    "productId": "gid://shopify/Product/10318434042183",
+    "handle": "60056-004",
+    "title": "Sommer Plakat Pink",
+    "type": "single_line_text_field",
+    "oldValue": "Pink",
+    "newValue": "Lyserød",
+    "replacements": [
+      [
+        "pink",
+        "lyserød"
+      ]
+    ]
+  },
+  {
+    "productId": "gid://shopify/Product/10318450557255",
+    "handle": "60092-001",
+    "title": "Håndlavet Plakat Pink",
+    "type": "single_line_text_field",
+    "oldValue": "Pink",
+    "newValue": "Lyserød",
+    "replacements": [
+      [
+        "pink",
+        "lyserød"
+      ]
+    ]
+  },
+  {
+    "productId": "gid://shopify/Product/10318450688327",
+    "handle": "60092-002",
+    "title": "Håndlavet Plakat Pink",
+    "type": "single_line_text_field",
+    "oldValue": "Pink",
+    "newValue": "Lyserød",
+    "replacements": [
+      [
+        "pink",
+        "lyserød"
+      ]
+    ]
+  },
+  {
+    "productId": "gid://shopify/Product/10318450786631",
+    "handle": "60092-004",
+    "title": "Håndlavet Plakat Pink",
+    "type": "single_line_text_field",
+    "oldValue": "Pink",
+    "newValue": "Lyserød",
+    "replacements": [
+      [
+        "pink",
+        "lyserød"
+      ]
+    ]
+  },
+  {
+    "productId": "gid://shopify/Product/10318450884935",
+    "handle": "60092-003",
+    "title": "Håndlavet Plakat Pink",
+    "type": "single_line_text_field",
+    "oldValue": "Pink",
+    "newValue": "Lyserød",
+    "replacements": [
+      [
+        "pink",
+        "lyserød"
+      ]
+    ]
+  },
+  {
+    "productId": "gid://shopify/Product/10318698053959",
+    "handle": "62042-666",
+    "title": "Neo Lænestol Peach",
+    "type": "single_line_text_field",
+    "oldValue": "Peach",
+    "newValue": "Fersken",
+    "replacements": [
+      [
+        "peach",
+        "fersken"
+      ]
+    ]
+  },
+  {
+    "productId": "gid://shopify/Product/10318701199687",
+    "handle": "62047-114",
+    "title": "Kres Sofa Bord 125 x 71 Pink",
+    "type": "single_line_text_field",
+    "oldValue": "Pink",
+    "newValue": "Lyserød",
+    "replacements": [
+      [
+        "pink",
+        "lyserød"
+      ]
+    ]
+  },
+  {
+    "productId": "gid://shopify/Product/10318704345415",
+    "handle": "62054-222",
+    "title": "Lenox Sidebord ⌀31 Peach",
+    "type": "single_line_text_field",
+    "oldValue": "Peach",
+    "newValue": "Fersken",
+    "replacements": [
+      [
+        "peach",
+        "fersken"
+      ]
+    ]
+  },
+  {
+    "productId": "gid://shopify/Product/10318790852935",
+    "handle": "gr19272",
+    "title": "Boom Lænestol Pink",
+    "type": "single_line_text_field",
+    "oldValue": "Pink",
+    "newValue": "Lyserød",
+    "replacements": [
+      [
+        "pink",
+        "lyserød"
+      ]
+    ]
+  }
+]
