@@ -13,7 +13,7 @@ import signal
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
 try:
-    from improved_venture_fix import ImprovedVentureUpdater
+    from persistent_venture_fix import PersistentVentureUpdater
 except ImportError as e:
     print(f"❌ Import error: {e}")
     print("📁 Current directory:", os.getcwd())
@@ -53,9 +53,10 @@ def main():
     while retry_count < max_retries:
         try:
             # Create updater and run
-            updater = ImprovedVentureUpdater(domain, token, dry_run=False)
+            updater = PersistentVentureUpdater(domain, token, dry_run=False)
             
-            print(f"🔄 Starting full update of all Venture Design products... (Attempt {retry_count + 1}/{max_retries})")
+            print(f"🔄 Starting persistent update of all Venture Design products... (Attempt {retry_count + 1}/{max_retries})")
+            print("🔄 This script NEVER gives up - it will retry until everything succeeds!")
             updater.run()
             
             print("✅ Update completed successfully!")
