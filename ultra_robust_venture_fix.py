@@ -268,7 +268,7 @@ class UltraRobustVentureUpdater:
         if product_id in self.price_updated:
             return True
             
-        expected_price = f"{cost * 1.75:.2f}"
+        expected_price = f"{cost * 2.20:.2f}"
         numeric_variant_id = variant_id.split("/")[-1]
         
         max_retries = 3

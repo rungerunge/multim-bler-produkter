@@ -4,7 +4,7 @@ Venture Design maintenance script
 
 Actions (only for products where vendor is "Venture Design" or "VENTURE DESIGN"):
 - Swap media positions 1 and 2 (if at least two media items exist)
-- Compute and set variant metafield custom.kostpris = (cost_per_item * 1.65)
+- Compute and set variant metafield custom.kostpris = (cost_per_item * 2.20)
 
 Dry-run by default. Use --apply to perform changes. Includes backups and logs.
 
@@ -199,8 +199,8 @@ def is_venture_vendor(vendor: str) -> bool:
 def compute_kostpris(amount: Optional[float]) -> Optional[str]:
     if amount is None:
         return None
-    # +25% moms and then +40% => 1.25 * 1.40 = 1.75
-    result = amount * 1.75
+    # +120% => factor 2.20
+    result = amount * 2.20
     return f"{result:.2f}"
 
 

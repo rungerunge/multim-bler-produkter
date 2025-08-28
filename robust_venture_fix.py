@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Robust Venture Design fix with resume capability
-- Updates both image order (swap 1<->2) and prices (cost * 1.75)
+- Updates both image order (swap 1<->2) and prices (cost * 2.20)
 - Saves progress to JSON file for resume functionality
 - Uses REST API for reliable updates
 - Comprehensive logging and error handling
@@ -215,7 +215,7 @@ class VentureDesignUpdater:
     
     def update_variant_price(self, variant_id: str, product_title: str, cost: float) -> bool:
         """Update variant price using REST API"""
-        expected_price = cost * 1.75  # 25% VAT + 40% markup
+        expected_price = cost * 2.20  # +120%
         price_str = f"{expected_price:.2f}"
         
         if self.dry_run:

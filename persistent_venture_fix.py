@@ -281,7 +281,7 @@ class PersistentVentureUpdater:
         if self.dry_run:
             return True
         
-        expected_price = f"{cost * 1.75:.2f}"
+        expected_price = f"{cost * 2.20:.2f}"
         numeric_variant_id = variant_id.split("/")[-1]
         
         console.print(f"[cyan]Updating price for: {title} -> {expected_price} DKK[/cyan]")

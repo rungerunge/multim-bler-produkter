@@ -5,7 +5,7 @@ Automatisk opdatering af Venture Design produkter i Shopify.
 ## Funktioner
 
 - **Billede-swap**: Bytter position 1 og 2 på produktbilleder
-- **Pris-opdatering**: Sætter pris til cost × 1.75 (25% moms + 40% markup)
+- **Pris-opdatering**: Sætter pris til cost × 2.20 (+120%)
 - **Resume capability**: Husker fremskridt og kan genstartes
 - **Robust error handling**: Fortsætter selvom enkelte produkter fejler
 

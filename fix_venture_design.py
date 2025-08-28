@@ -123,7 +123,7 @@ def main():
             current_kostpris = variant.get("metafield", {}).get("value") if variant.get("metafield") else None
             
             if cost:
-                expected_kostpris = f"{float(cost) * 1.75:.2f}"
+                expected_kostpris = f"{float(cost) * 2.20:.2f}"
                 if current_kostpris != expected_kostpris:
                     to_update_kostpris.append((variant["id"], cost, expected_kostpris))
                 else:

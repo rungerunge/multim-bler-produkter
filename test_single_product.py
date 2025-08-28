@@ -102,7 +102,7 @@ current_kostpris = variant.get("metafield", {}).get("value") if variant.get("met
 console.print(f"\n[bold]Current variant info:[/bold]")
 console.print(f"  Cost per item: {current_cost}")
 console.print(f"  Current kostpris: {current_kostpris}")
-console.print(f"  Expected kostpris: {float(current_cost) * 1.75:.2f}")
+console.print(f"  Expected kostpris: {float(current_cost) * 2.20:.2f}")
 
 # 2. Swap first two images
 if len(test_product["media"]["edges"]) >= 2:
@@ -135,7 +135,7 @@ if len(test_product["media"]["edges"]) >= 2:
         console.print("[green]✓ Images swapped successfully[/green]")
 
 # 3. Set kostpris metafield
-new_kostpris = str(float(current_cost) * 1.75)
+new_kostpris = str(float(current_cost) * 2.20)
 
 console.print(f"\n[bold yellow]Setting kostpris metafield...[/bold yellow]")
 console.print(f"Setting kostpris to: {new_kostpris}")

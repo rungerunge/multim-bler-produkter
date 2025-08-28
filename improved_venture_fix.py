@@ -175,7 +175,7 @@ class ImprovedVentureUpdater:
         if self.dry_run:
             return True
             
-        expected_price = f"{cost * 1.75:.2f}"
+        expected_price = f"{cost * 2.20:.2f}"
         
         # Extract numeric variant ID from GraphQL ID
         numeric_variant_id = variant_id.split("/")[-1]

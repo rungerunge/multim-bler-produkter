@@ -114,7 +114,7 @@ def main():
         cost = variant["inventoryItem"]["unitCost"]["amount"]
         currency = variant["inventoryItem"]["unitCost"]["currencyCode"]
         current_kostpris = variant.get("metafield", {}).get("value") if variant.get("metafield") else None
-        expected_kostpris = float(cost) * 1.75
+        expected_kostpris = float(cost) * 2.20
         
         console.print(f"\n[bold]Current Variant Info:[/bold]")
         console.print(f"Variant ID: {variant['id']}")
@@ -155,7 +155,7 @@ def main():
     if product["variants"]["edges"]:
         variant = product["variants"]["edges"][0]["node"]
         cost = variant["inventoryItem"]["unitCost"]["amount"]
-        new_kostpris = f"{float(cost) * 1.75:.2f}"
+        new_kostpris = f"{float(cost) * 2.20:.2f}"
         
         console.print(f"Setting kostpris to: {new_kostpris}")
         
@@ -230,7 +230,7 @@ def main():
             console.print(f"Swap successful: {'✓' if swap_success else '✗'}")
         
         # Verify kostpris
-        expected = f"{float(cost) * 1.75:.2f}"
+        expected = f"{float(cost) * 2.20:.2f}"
         kostpris_success = (updated_kostpris == expected)
         console.print(f"\n[bold]Kostpris Verification:[/bold]")
         console.print(f"Expected: {expected}")
