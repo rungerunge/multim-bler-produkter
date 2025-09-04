@@ -2,4 +2,5 @@ requests>=2.32.0
 tenacity>=9.0.0
 tqdm>=4.66.0
 rich>=13.7.0
+pandas>=2.0.0
 

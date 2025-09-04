@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """
 Robust Venture Design fix with resume capability
-- Updates both image order (swap 1<->2) and prices (cost * 2.20)
+- Updates both image order (swap 1<->2) and prices from products.csv
+- Reads cost prices from CSV, calculates sale price as cost * 2.1, rounded up to nearest 10
 - Saves progress to JSON file for resume functionality
 - Uses REST API for reliable updates
 - Comprehensive logging and error handling
@@ -12,6 +13,8 @@ import json
 import requests
 import argparse
 import time
+import pandas as pd
+import math
 from datetime import datetime
 from typing import Dict, List, Set, Tuple
 from rich.console import Console
@@ -26,6 +29,50 @@ def get_env(name: str) -> str:
     if not v:
         raise Exception(f"Missing environment variable: {name}")
     return v
+
+class CSVPriceLoader:
+    """Load and manage pricing data from products.csv"""
+    
+    def __init__(self, csv_file: str = "products.csv"):
+        self.csv_file = csv_file
+        self.price_data = {}
+        self.load_prices()
+    
+    def load_prices(self):
+        """Load pricing data from CSV file"""
+        try:
+            df = pd.read_csv(self.csv_file, sep=';')
+            
+            # Filter for Venture Design products with cost data
+            venture_products = df[
+                (df['Vendor'] == 'VENTURE DESIGN') & 
+                (df['Cost per item'].notna()) & 
+                (df['Cost per item'] > 0)
+            ]
+            
+            for _, row in venture_products.iterrows():
+                sku = row['Variant SKU']
+                cost = float(row['Cost per item'])
+                
+                if pd.notna(sku) and cost > 0:
+                    # Calculate sale price: cost * 2.1, rounded up to nearest 10
+                    sale_price_raw = cost * 2.1
+                    sale_price = math.ceil(sale_price_raw / 10) * 10
+                    
+                    self.price_data[str(sku)] = {
+                        'cost': cost,
+                        'sale_price': sale_price
+                    }
+            
+            console.print(f"[green]Loaded {len(self.price_data)} price entries from CSV[/green]")
+            
+        except Exception as e:
+            console.print(f"[red]Error loading CSV prices: {e}[/red]")
+            raise
+    
+    def get_price_for_sku(self, sku: str) -> Dict:
+        """Get pricing data for a specific SKU"""
+        return self.price_data.get(str(sku), None)
 
 class VentureProgressTracker:
     def __init__(self, progress_file: str = "logs/venture_progress.json"):
@@ -111,6 +158,7 @@ class VentureDesignUpdater:
         }
         self.graphql_url = f"https://{domain}/admin/api/2024-07/graphql.json"
         self.tracker = VentureProgressTracker()
+        self.csv_loader = CSVPriceLoader()
     
     def fetch_venture_products(self) -> List[Dict]:
         """Fetch all Venture Design products using GraphQL"""
@@ -129,6 +177,7 @@ class VentureDesignUpdater:
                   edges {
                     node {
                       id
+                      sku
                       price
                       inventoryItem { unitCost { amount } }
                     }
@@ -213,13 +262,19 @@ class VentureDesignUpdater:
             console.print(f"[red]Image swap error for {title}: {e}[/red]")
             return False
     
-    def update_variant_price(self, variant_id: str, product_title: str, cost: float) -> bool:
-        """Update variant price using REST API"""
-        expected_price = cost * 2.20  # +120%
+    def update_variant_price(self, variant_id: str, product_title: str, sku: str) -> bool:
+        """Update variant price using CSV data and REST API"""
+        # Get price from CSV
+        price_data = self.csv_loader.get_price_for_sku(sku)
+        if not price_data:
+            console.print(f"[yellow]No price data found for SKU: {sku}[/yellow]")
+            return True  # Skip but don't fail
+        
+        expected_price = price_data['sale_price']
         price_str = f"{expected_price:.2f}"
         
         if self.dry_run:
-            console.print(f"[yellow]DRY RUN:[/yellow] Would set price to {price_str} DKK for {product_title}")
+            console.print(f"[yellow]DRY RUN:[/yellow] Would set price to {price_str} DKK for {product_title} (SKU: {sku})")
             return True
         
         # Extract numeric variant ID from GraphQL ID
@@ -267,17 +322,18 @@ class VentureDesignUpdater:
         if product["variants"]["edges"] and product_id not in self.tracker.updated_prices:
             variant = product["variants"]["edges"][0]["node"]
             variant_id = variant["id"]
-            cost = variant["inventoryItem"]["unitCost"]["amount"]
+            sku = variant.get("sku", "")
             
-            if cost:
-                success = self.update_variant_price(variant_id, title, float(cost))
+            if sku:
+                success = self.update_variant_price(variant_id, title, sku)
                 if success:
                     self.tracker.mark_price_updated(product_id)
                     results["price"] = True
                 else:
                     self.tracker.mark_failed(product_id, "Price update failed")
             else:
-                results["price"] = True  # No cost to update
+                console.print(f"[yellow]No SKU found for {title}[/yellow]")
+                results["price"] = True  # Skip but don't fail
         else:
             results["price"] = True
         
